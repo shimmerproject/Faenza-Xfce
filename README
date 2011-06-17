@@ -1,6 +1,8 @@
 Name: Faenza Xfce
-Summary: Faenza icon theme for Xfce.
+Author: Simon Steinbeiß
+Summary: Faenza icon theme Addon for Xfce.
+Requires: Faenza icon theme.
 
-This is the Xfce port for the Faenza icons. The icon theme aims to make Faenza Xfce-complete as well as improve some icons.
+This is an addon to make Faenza xfce-complete, meaning it requires the Faenza-icon set to be installed to work.
 
-The origianl Faenza icon theme is by Matthieu James.
+The original Faenza icon theme is by Matthieu James.
