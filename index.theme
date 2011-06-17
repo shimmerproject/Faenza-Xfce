@@ -1,0 +1,17 @@
+[Icon Theme]
+Name=Faenza-Xfce
+Inherits=Faenza-Dark,Faenza
+Comment=Addon Icon-theme for Faenza
+Directories=apps/48,apps/scalable
+
+[apps/48]
+Size=48
+Context=Apps
+Type=fixed
+
+[apps/scalable]
+Size=96
+Context=Apps
+Type=Scalable
+MinSize=64
+MaxSize=128
