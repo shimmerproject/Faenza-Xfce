@@ -14,7 +14,7 @@
    width="96"
    height="96"
    id="svg2408"
-   inkscape:version="0.48.0 r9654"
+   inkscape:version="0.48.1 r9760"
    sodipodi:docname="xfce4-verve-plugin.svg">
   <metadata
      id="metadata78">
@@ -24,7 +24,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -41,11 +41,11 @@
      inkscape:window-height="860"
      id="namedview76"
      showgrid="false"
-     inkscape:zoom="2.6404834"
-     inkscape:cx="59.032699"
-     inkscape:cy="63.148742"
-     inkscape:window-x="500"
-     inkscape:window-y="295"
+     inkscape:zoom="5.2809668"
+     inkscape:cx="48.598134"
+     inkscape:cy="66.557209"
+     inkscape:window-x="424"
+     inkscape:window-y="112"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg2408"
      showguides="true"
@@ -610,22 +610,6 @@
        r="22.904837"
        gradientTransform="matrix(1.302742,-0.02716787,0.02680691,0.98107229,-122.82857,-87.750376)"
        gradientUnits="userSpaceOnUse" />
-    <filter
-       inkscape:collect="always"
-       id="filter3960">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="0.66558594"
-         id="feGaussianBlur3962" />
-    </filter>
-    <filter
-       inkscape:collect="always"
-       id="filter4173">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="0.54509893"
-         id="feGaussianBlur4175" />
-    </filter>
   </defs>
   <g
      id="layer2"
@@ -714,11 +698,6 @@
        id="rect3171"
        style="opacity:0.1;fill:url(#linearGradient3613);fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;filter:url(#filter3794)" />
   </g>
-  <path
-     inkscape:connector-curvature="0"
-     style="opacity:0.05;color:#000000;fill:url(#linearGradient3078);fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-     id="path3986"
-     d="m 19,15 c -2.753005,0 -5,2.246995 -5,5 l 0,56 c 0,2.753005 2.246995,5 5,5 l 8,0 c 2.753005,0 5,-2.246995 5,-5 l 0,-56 c 0,-2.753005 -2.246995,-5 -5,-5 l -8,0 z" />
   <rect
      ry="6.014606"
      rx="6"
@@ -728,9 +707,9 @@
      width="61.122303"
      id="rect3099"
      style="fill:#000000;fill-opacity:0.359375;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.34541968;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.53125;stroke-dasharray:none;filter:url(#filter3881)"
-     transform="matrix(0.94129644,0,0,1.0098473,1.4919533,0.21893425)" />
+     transform="matrix(1.0815139,0,0,1.0098473,-10.322628,0.21893425)" />
   <rect
-     style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2.18045068;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.53125;stroke-dasharray:none"
+     style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#232323;stroke-width:2.18045067999999986;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.53125;stroke-dasharray:none"
      id="rect3097"
      width="55.135548"
      height="59.389587"
@@ -748,11 +727,6 @@
      rx="6.4647527"
      ry="6.0738335"
      transform="matrix(-0.99993371,-0.01151385,0.01151385,-0.99993371,0,0)" />
-  <path
-     inkscape:connector-curvature="0"
-     style="opacity:0.1;color:#000000;fill:url(#linearGradient3075);fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-     id="path3978"
-     d="m 19,15.96875 c -2.220837,0 -4.03125,1.810413 -4.03125,4.03125 l 0,56 c 0,2.220837 1.810413,4.03125 4.03125,4.03125 l 8,0 c 2.220837,0 4.03125,-1.810413 4.03125,-4.03125 l 0,-56 c 0,-2.220837 -1.810413,-4.03125 -4.03125,-4.03125 l -8,0 z" />
   <path
      inkscape:connector-curvature="0"
      style="color:#000000;fill:url(#linearGradient3067);fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
